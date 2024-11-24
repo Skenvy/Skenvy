@@ -25,11 +25,19 @@ https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/*.* -->
 > [!TIP]
 > My dotfiles are setup for maximum cloneability, from [`main`](https://github.com/Skenvy/dotfiles/tree/main). [`home`](https://github.com/Skenvy/dotfiles/tree/home) is _my_ home. Or, [make yourself at home](https://github.com/Skenvy/dotfiles/tree/base), too.
 
+<!-- ## Ethos 🚎 -->
+
 ## Tools 🛠️
+
+> [!WARNING]
+> Probably pointless decoration having the lists here, but it feels empty without them. Might make it relevant eventually, might not.
 
 <details>
 <summary>Generic</summary>
 
+### IDE
+* vsc
+* vim
 ### Cloud
 * AWS (via CFN/CDK/TF)
 * GCP (via TF)
@@ -85,9 +93,16 @@ https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/*.* -->
 
 </details>
 
-<!-- ## Ethos 🚎 -->
+## Projects 📂
 
-<!-- ## Projects 📂 -->
+> [!NOTE]
+> I maintain several niche packages that besides their respective typical hosts, also live in [GitHub Packages.](https://github.com/Skenvy?tab=packages)
+> There's also my [gists](https://gist.github.com/Skenvy). One that I have on my favourites bar because I regularly need to access it to remember it is [SSH for multiple GH accounts](https://gist.github.com/Skenvy/8e16d4f044707e63c670f5b487da02c0).
+
+1. [julia-release](https://github.com/Skenvy/julia-release): A github action to release a julia project in a way that feels more ideologically alligned with how I'm familiar with releasing, as opposed to julia's officially recommended release pattern.
+1. [dependabot-linguist](https://github.com/Skenvy/dependabot-linguist) A ruby [package](https://rubygems.org/gems/dependabot-linguist) that can be used to have a guess as to what sort of dependabot configuration is appropriate for a given repository, with the primary use case of automating the configuration across multiple repositories without the need to manually investigate their contents.
+1. [Collatz](https://github.com/Skenvy/Collatz): An attempt at a personal Rosetta Stone and collation of _language-fu-isms_, all attempting to achieve sort of the same thing, along with various general repository health examples, and learning github actions.
+1. [Sudoku](https://github.com/Skenvy/Sudoku): A java JFrame implementation of a sudoku solver I wrote circa 2013 and have been sitting on with the desire to one day convert it into an android app. The distinction between this and other solvers is that this tries to catagorise the difficulty of the puzzle by which tactics it needed to solve it, that is to say, it tries to solve it using only specific techniques, in order, without resorting to heuristics / brute force that would be unobtainable for a person.
 
 ## Publications 🖨️
 * Honours Thesis (2017): [ECDSA and ECDH in VHDL for FPGA](http://hdl.handle.net/1959.14/1262355)
