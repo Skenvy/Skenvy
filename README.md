@@ -9,10 +9,15 @@ wiki, then add and commit, and the image file is now generally available at path
 https://raw.githubusercontent.com/wiki/:owner/:repo/a/b/c.xyz e.g.
 https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/*.* -->
 
-> [!IMPORTANT]
+> [!CAUTION]
 > Likey, nothing better symbolises the chaotic vibe of my approach to coding than this; the time when I was 15, stumbled upon a broken umbrella, and had no qualms asking, or answering, the question "Could you fit all the pieces of an umbrella in an apple?"
 
 <img alt="An apple with pieces of an umbrella poking through it." src="https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/umbrella_apple.jpg" width=830 height=432 style="display:block;margin-left:auto;margin-right:auto;"/>
+
+> [!IMPORTANT]
+> Howdy, I'm [Nathan](https://www.linkedin.com/in/nathan-levett/), a.k.a. [Skenvy](https://www.reddit.com/user/Skenvy/submitted/), "30's"-year-old Australian. I'm building inconsequential projects for fun and learning. The more inconsequential the better.
+>
+> Degree'd in Computer Engineering, Maths and Geology, I've spent several years working across a range of technical roles, starting off with FPGA development, then product support, .Net/Azure desktop app design, consulting, "data", and for the last few years as something that is SRE-adjacent, "devops"-y cloud thangs.
 
 > [!TIP]
 > My dotfiles are setup for maximum cloneability, from [`main`](https://github.com/Skenvy/dotfiles/tree/main). [`home`](https://github.com/Skenvy/dotfiles/tree/home) is _my_ home. Or, [make yourself at home](https://github.com/Skenvy/dotfiles/tree/base), too.
