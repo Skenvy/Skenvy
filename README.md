@@ -3,26 +3,16 @@
 is a special case; being the "Profile Repo" https://github.com/Skenvy/Skenvy, we
 also don't need the typical "top header is repo name hyperlinked to itself"! -->
 
-<!-- Inspiration?
-https://www.reddit.com/r/github/comments/uulygm/
-https://github.com/abhisheknaiidu/awesome-github-profile-readme
-https://github.com/coderjojo/creative-profile-readme
--->
+<!-- Host and src imgs without bloating this or using lfs, by committing images
+to this's wiki. ```git clone git@github.com:Skenvy/Skenvy.wiki.git``` to get the
+wiki, then add and commit, and the image file is now generally available at path
+https://raw.githubusercontent.com/wiki/:owner/:repo/a/b/c.xyz e.g.
+https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/*.* -->
 
-<!--
-**Skenvy/Skenvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [!IMPORTANT]
+> Likey, nothing better symbolises the chaotic vibe of my approach to coding than this; the time when I was 15, stumbled upon a broken umbrella, and had no qualms asking, or answering, the question "Could you fit all the pieces of an umbrella in an apple?"
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="An apple with pieces of an umbrella poking through it." src="https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/umbrella_apple.jpg" width=830 height=432 style="display:block;margin-left:auto;margin-right:auto;"/>
 
 ## License
 > [!NOTE]
