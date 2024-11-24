@@ -25,11 +25,72 @@ https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/*.* -->
 > [!TIP]
 > My dotfiles are setup for maximum cloneability, from [`main`](https://github.com/Skenvy/dotfiles/tree/main). [`home`](https://github.com/Skenvy/dotfiles/tree/home) is _my_ home. Or, [make yourself at home](https://github.com/Skenvy/dotfiles/tree/base), too.
 
-<!-- ## Tools 🛠️ -->
+## Tools 🛠️
+
+<details>
+<summary>Generic</summary>
+
+### Cloud
+* AWS (via CFN/CDK/TF)
+* GCP (via TF)
+### CICD
+* GitHub Actions
+* BuildKite
+### Containerisation
+* Docker
+* Docker-Compose
+* K8s
+* Helm
+* K9s
+### Db
+* PostgreSQL
+* BigQuery
+* RedShift
+* dabbled in Cassandra
+### VC
+* Git
+* Mercurial
+### Methodologies
+* Agile
+* Kanban
+* Scrum
+
+</details>
+
+<details>
+<summary>Languages</summary>
+
+### Primary
+* Python
+* Bash
+* Java
+* Yaml (lol)
+* Make (lol).
+### Secondary
+* C#
+* Go
+* Ruby
+* PowerShell
+* Julia
+* R
+* VHDL
+### Currently learning
+* Rust
+* Kotlin+Android
+* Erlang/Gleam
+### _Always learning_
+* JS
+* TS
+* Node
+
+</details>
 
 <!-- ## Ethos 🚎 -->
 
 <!-- ## Projects 📂 -->
+
+## Publications 🖨️
+* Honours Thesis (2017): [ECDSA and ECDH in VHDL for FPGA](http://hdl.handle.net/1959.14/1262355)
 
 ## License 📄
 > [!NOTE]
