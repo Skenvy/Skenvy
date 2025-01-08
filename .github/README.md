@@ -27,6 +27,15 @@ https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/*.* -->
 
 <!-- ## Ethos 🚎 -->
 
+<!--
+Links to relevant content to maybe include
+https://www.youtube.com/watch?v=K7hU_z9X4Kk "define your wins" -- How To Make Coding Addictive -- bigboxSWE
+https://www.youtube.com/watch?v=bJQj1uKtnus "cult of done" -- The Cult of Done: How to Finish the Thing -- NoBoilerplate
+https://www.youtube.com/watch?v=8GQZuzIdeQQ -- How to make hard choices | Ruth Chang -- TED
+https://www.youtube.com/watch?v=5nY_cy8zcO4 -- Don't Contribute to Open Source -- t3dotgg
+https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13 "cult of done" reprint by one of the original authors.
+-->
+
 ## Tools 🛠️
 
 <!-- Probably pointless decoration having the lists here, but it feels empty without them. Might make it relevant eventually, might not. -->
