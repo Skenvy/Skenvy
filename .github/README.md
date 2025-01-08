@@ -10,27 +10,26 @@ https://raw.githubusercontent.com/wiki/:owner/:repo/a/b/c.xyz e.g.
 https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/*.* -->
 
 > [!CAUTION]
-> Likey, nothing better symbolises the chaotic vibe of my approach to coding than this; the time when I was 15, stumbled upon a broken umbrella, and had no qualms asking, or answering, the question "Could you fit all the pieces of an umbrella in an apple?"
+> Likey, nothing better symbolises the chaotic vibe of my approach to coding than this; the time when I was 15, stumbled upon a broken umbrella, and had no qualms asking, or answering: "Could you fit all the pieces of an umbrella in an apple?"
 
 <img alt="An apple with pieces of an umbrella poking through it." src="https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/umbrella_apple.jpg" width=830 height=432 style="display:block;margin-left:auto;margin-right:auto;"/>
 
 ## `whoami` 🤷‍♂️
 > [!IMPORTANT]
-> Howdy, I'm [Nathan](https://www.linkedin.com/in/nathan-levett/), a.k.a. [Skenvy](https://www.reddit.com/user/Skenvy/submitted/), "30's"-year-old Australian.
+> Howdy, I'm [Nathan](https://www.linkedin.com/in/nathan-levett/), a.k.a. [Skenvy](https://www.reddit.com/user/Skenvy/submitted/), "30's"-year-old Australian 'devops' human.
 >
 > I'm building inconsequential projects for fun and learning. The more inconsequential the better.
 >
-> Degree'd in Computer Engineering, Maths and Geology, I've spent several years working across a range of technical roles, starting off with FPGA development, then product support, .Net/Azure desktop app design, consulting, "data", and for the last few years as something that is SRE-adjacent, "devops"-y cloud thangs.
+> Degree'd in Computer Engineering, Maths and Geology, I've spent several years working across a range of technical roles: FPGA development, product support, Azure apps, "consulting", "data", and for the last few years as something that is 'SRE-adjacent', "devops"-y cloud [thangs](https://www.youtube.com/watch?v=ijN3Oho2Qf0).
 
 > [!TIP]
-> My dotfiles are setup for maximum cloneability, from [`main`](https://github.com/Skenvy/dotfiles/tree/main). [`home`](https://github.com/Skenvy/dotfiles/tree/home) is _my_ home. Or, [make yourself at home](https://github.com/Skenvy/dotfiles/tree/base), too.
+> My dotfiles are _their own how-to_, from [`main`](https://github.com/Skenvy/dotfiles/tree/main). [`home`](https://github.com/Skenvy/dotfiles/tree/home) is _my_ home. Or, [make yourself at home](https://github.com/Skenvy/dotfiles/tree/base), too. [Home Is Where the Dotfile Is](https://www.youtube.com/watch?v=dAZgor62vMI).
 
 <!-- ## Ethos 🚎 -->
 
 ## Tools 🛠️
 
-> [!WARNING]
-> Probably pointless decoration having the lists here, but it feels empty without them. Might make it relevant eventually, might not.
+<!-- Probably pointless decoration having the lists here, but it feels empty without them. Might make it relevant eventually, might not. -->
 
 <details>
 <summary>Generic</summary>
@@ -101,7 +100,7 @@ https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/*.* -->
 
 1. [julia-release](https://github.com/Skenvy/julia-release): A github action to release a julia project in a way that feels more ideologically alligned with how I'm familiar with releasing, as opposed to julia's officially recommended release pattern.
 1. [dependabot-linguist](https://github.com/Skenvy/dependabot-linguist) A ruby [package](https://rubygems.org/gems/dependabot-linguist) that can be used to have a guess as to what sort of dependabot configuration is appropriate for a given repository, with the primary use case of automating the configuration across multiple repositories without the need to manually investigate their contents.
-1. [Collatz](https://github.com/Skenvy/Collatz): An attempt at a personal Rosetta Stone and collation of _language-fu-isms_, all attempting to achieve sort of the same thing, along with various general repository health examples, and learning github actions.
+1. [Collatz](https://github.com/Skenvy/Collatz): An attempt at a personal Rosetta Stone and collation of _language-fu-isms_, all attempting to achieve sort of the same thing, along with various general repository health examples, and learning github actions. There's probably more collatz repositories on GitHub than you could poke a stick at. This is just one of them. I picked the topic to match the goal of "personal Rosetta Stone" rather than the other way round. The choice of topic came from having a bunch of python scripts written years ago that went down a rabbit-hole, so I made this to make myself stick to KISS.
 1. [Sudoku](https://github.com/Skenvy/Sudoku): A java JFrame implementation of a sudoku solver I wrote circa 2013 and have been sitting on with the desire to one day convert it into an android app. The distinction between this and other solvers is that this tries to catagorise the difficulty of the puzzle by which tactics it needed to solve it, that is to say, it tries to solve it using only specific techniques, in order, without resorting to heuristics / brute force that would be unobtainable for a person.
 
 ## Publications 🖨️
