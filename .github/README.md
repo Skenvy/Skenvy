@@ -25,16 +25,48 @@ https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/*.* -->
 > [!TIP]
 > My dotfiles are _their own how-to_, from [`main`](https://github.com/Skenvy/dotfiles/tree/main). [`home`](https://github.com/Skenvy/dotfiles/tree/home) is _my_ home. Or, [make yourself at home](https://github.com/Skenvy/dotfiles/tree/base), too. [Home Is Where the Dotfile Is](https://www.youtube.com/watch?v=dAZgor62vMI).
 
-<!-- ## Ethos 🚎 -->
+## Ethos 🚎
+Have you ever wanted to [start a cult](https://www.wikihow.com/Start-a-Cult)? Thankfully in the software dev space, there's already a variety of cults to choose from!
+### [Cult of Done](https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13)
+The "Cult of Done" is a nice set of quip-based motivationals, if those would help you. I first encountered it on [NoBoilerplate @ yt](https://www.youtube.com/watch?v=bJQj1uKtnus).
+<details>
+<summary>The Cult of Done Manifesto</summary>
+
+1. There are three states of being. Not knowing, action and completion.
+1. Accept that everything is a draft. It helps to get it done.
+1. There is no editing stage.
+1. Pretending you know what you're doing is almost the same as knowing what you are doing, so just accept that you know what you're doing even if you don't and do it.
+1. Banish procrastination. If you wait more than a week to get an idea done, abandon it.
+1. The point of being done is not to finish but to get other things done.
+1. Once you're done you can throw it away.
+1. Laugh at perfection. It's boring and keeps you from being done.
+1. People without dirty hands are wrong. Doing something makes you right.
+1. Failure counts as done. So do mistakes.
+1. Destruction is a variant of done.
+1. If you have an idea and publish it on the internet, that counts as a ghost of done.
+1. Done is the engine of more.
+
+_These are licensed Creative Commons by Bre and Kio, but I can't find a link to the original license_.
+
+</details>
+
+Of course, the value of anything like this is in the self-determination of adopting it.
+This doesn't need to be a serious thing, and it's best when it isn't.
+These aren't hard and fast rules, anymore than you choose for them to be!
+A preface that only feels necessary after seeing several tirade-esque posts admonishing the use of any motivational tools while trying to find the original source for the CoD manifesto.
+
+_My take?_
+
+<img alt="Gif of Marge's iconic 'I just think they're neat' line." src="https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/marge-i-just-think-theyre-neat.gif" width=480 height=360 style="display:block;margin-left:auto;margin-right:auto;"/>
 
 <!--
 Links to relevant content to maybe include
 https://www.youtube.com/watch?v=K7hU_z9X4Kk "define your wins" -- How To Make Coding Addictive -- bigboxSWE
-https://www.youtube.com/watch?v=bJQj1uKtnus "cult of done" -- The Cult of Done: How to Finish the Thing -- NoBoilerplate
 https://www.youtube.com/watch?v=8GQZuzIdeQQ -- How to make hard choices | Ruth Chang -- TED
 https://www.youtube.com/watch?v=5nY_cy8zcO4 -- Don't Contribute to Open Source -- t3dotgg
-https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13 "cult of done" reprint by one of the original authors.
 -->
+
+<!-- https://github.com/pulls?q=is%3Apr+author%3A%40me+-user%3A%40me+ -->
 
 ## Tools 🛠️
 
@@ -105,7 +137,8 @@ https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13 "cult of done" r
 
 > [!NOTE]
 > I maintain several niche packages that besides their respective typical hosts, also live in [GitHub Packages.](https://github.com/Skenvy?tab=packages)
-> There's also my [gists](https://gist.github.com/Skenvy). One that I have on my favourites bar because I regularly need to access it to remember it is [SSH for multiple GH accounts](https://gist.github.com/Skenvy/8e16d4f044707e63c670f5b487da02c0).
+>
+> There's also my [gists](https://gist.github.com/Skenvy). One that I have favourited because I regularly access it is [SSH for multiple GH accounts](https://gist.github.com/Skenvy/8e16d4f044707e63c670f5b487da02c0).
 
 1. [julia-release](https://github.com/Skenvy/julia-release): A github action to release a julia project in a way that feels more ideologically alligned with how I'm familiar with releasing, as opposed to julia's officially recommended release pattern.
 1. [dependabot-linguist](https://github.com/Skenvy/dependabot-linguist) A ruby [package](https://rubygems.org/gems/dependabot-linguist) that can be used to have a guess as to what sort of dependabot configuration is appropriate for a given repository, with the primary use case of automating the configuration across multiple repositories without the need to manually investigate their contents.
