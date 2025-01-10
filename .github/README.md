@@ -50,27 +50,34 @@ _These are licensed Creative Commons by Bre and Kio, but I can't find a link to 
 
 </details>
 
-Of course, the value of anything like this is in the self-determination of adopting it.
-This doesn't need to be a serious thing, and it's best when it isn't.
-These aren't hard and fast rules, anymore than you choose for them to be!
-A preface that only feels necessary after seeing several tirade-esque posts admonishing the use of any motivational tools while trying to find the original source for the CoD manifesto.
+The value of anything like this is in the self-determination of adopting it.
+This doesn't need to be a serious thing, and it's best when it isn't!
+These aren't hard and fast rules, anymore than you choose for them to be.
 
 _My take?_
 
 <img alt="Gif of Marge's iconic 'I just think they're neat' line." src="https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/marge-i-just-think-theyre-neat.gif" width=480 height=360 style="display:block;margin-left:auto;margin-right:auto;"/>
 
-<!--
-Links to relevant content to maybe include
-https://www.youtube.com/watch?v=K7hU_z9X4Kk "define your wins" -- How To Make Coding Addictive -- bigboxSWE
-https://www.youtube.com/watch?v=8GQZuzIdeQQ -- How to make hard choices | Ruth Chang -- TED
-https://www.youtube.com/watch?v=5nY_cy8zcO4 -- Don't Contribute to Open Source -- t3dotgg
--->
+#### _Ghost of done_
+My favourite quip from the manifesto is the "Ghost of done";
+the value of an idea is not necessarily whether or not _you_ action it, or if you do, how you accomplish it.
+Merely having the idea exist in whatever capacity out there in the void, is a facsimile of done.
+Accepting this is very freeing. Things don't need to be perfect.
+If the idea is out there, anyone could do it better, and at least you've learnt something.
+The value is in the learning, the doing, not the manifestation of the end result.
 
-<!-- https://github.com/pulls?q=is%3Apr+author%3A%40me+-user%3A%40me+ -->
+Don't worry how it will turn out. [Just do it](https://www.youtube.com/watch?v=ZXsQAXx_ao0).
+
+<details>
+<summary>Other relevant videos</summary>
+
+1. [How To Make Coding Addictive -- bigboxSWE](https://www.youtube.com/watch?v=K7hU_z9X4Kk) -- "define your wins"
+1. [How to make hard choices | Ruth Chang -- TED](https://www.youtube.com/watch?v=8GQZuzIdeQQ)
+1. [Don't Contribute to Open Source -- t3dotgg](https://www.youtube.com/watch?v=5nY_cy8zcO4) -- (3:28) "the best project to contribute to is the one that: you use, you have a problem with, and you've looked through the source code and think you might be able to solve it."
+
+</details>
 
 ## Tools 🛠️
-
-<!-- Probably pointless decoration having the lists here, but it feels empty without them. Might make it relevant eventually, might not. -->
 
 <details>
 <summary>Generic</summary>
@@ -136,7 +143,9 @@ https://www.youtube.com/watch?v=5nY_cy8zcO4 -- Don't Contribute to Open Source -
 ## Projects 📂
 
 > [!NOTE]
-> I maintain several niche packages that besides their respective typical hosts, also live in [GitHub Packages.](https://github.com/Skenvy?tab=packages)
+> I maintain several niche packages that besides their respective typical hosts, also live in [GitHub Packages](https://github.com/Skenvy?tab=packages).
+>
+> My open source contributions to other repositories can be seen [here](https://github.com/pulls?q=is%3Apr+author%3Askenvy+-user%3Askenvy). You can similarly see yours [here](https://github.com/pulls?q=is%3Apr+author%3A%40me+-user%3A%40me+).
 >
 > There's also my [gists](https://gist.github.com/Skenvy). One that I have favourited because I regularly access it is [SSH for multiple GH accounts](https://gist.github.com/Skenvy/8e16d4f044707e63c670f5b487da02c0).
 
