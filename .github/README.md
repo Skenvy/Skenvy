@@ -62,14 +62,11 @@ _My take?_
 My favourite quip from the manifesto is the "Ghost of done";
 the value of an idea is not necessarily whether or not _you_ action it, or if you do, how you accomplish it.
 Merely having the idea exist in whatever capacity out there in the void, is a facsimile of done.
-Accepting this is very freeing. Things don't need to be perfect.
-If the idea is out there, anyone could do it better, and at least you've learnt something.
-The value is in the learning, the doing, not the manifestation of the end result.
 
 Don't worry how it will turn out. [Just do it](https://www.youtube.com/watch?v=ZXsQAXx_ao0).
 
 <details>
-<summary>Other relevant videos</summary>
+<summary>Other relevant videos that echo similar vibes</summary>
 
 1. [How To Make Coding Addictive -- bigboxSWE](https://www.youtube.com/watch?v=K7hU_z9X4Kk) -- "define your wins"
 1. [How to make hard choices | Ruth Chang -- TED](https://www.youtube.com/watch?v=8GQZuzIdeQQ)
