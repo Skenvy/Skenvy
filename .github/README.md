@@ -23,12 +23,17 @@ https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/*.* -->
 > Degree'd in Computer Engineering, Maths and Geology, I've spent several years working across a range of technical roles: FPGA development, product support, Azure apps, "consulting", "data", and for the last few years as something that is 'SRE-adjacent', "devops"-y cloud [thangs](https://www.youtube.com/watch?v=ijN3Oho2Qf0).
 
 > [!TIP]
-> My dotfiles are _their own how-to_, from [`main`](https://github.com/Skenvy/dotfiles/tree/main). [`home`](https://github.com/Skenvy/dotfiles/tree/home) is _my_ home. Or, [make yourself at home](https://github.com/Skenvy/dotfiles/tree/base), too. [Home Is Where the Dotfile Is](https://www.youtube.com/watch?v=dAZgor62vMI).
+> My dotfiles are _their own how-to_, from [`main`](https://github.com/Skenvy/dotfiles/tree/main). [`home`](https://github.com/Skenvy/dotfiles/tree/home) is _my_ home. Or, [make yourself at home](https://github.com/Skenvy/dotfiles/tree/base), too.
 
 ## Ethos 🚎
 Have you ever wanted to [start a cult](https://www.wikihow.com/Start-a-Cult)? Thankfully in the software dev space, there's already a variety of cults to choose from!
+
+<details>
+<summary>The Cult of Done</summary>
+
 ### [Cult of Done](https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13)
 The "Cult of Done" is a nice set of quip-based motivationals, if those would help you. I first encountered it on [NoBoilerplate @ yt](https://www.youtube.com/watch?v=bJQj1uKtnus).
+
 <details>
 <summary>The Cult of Done Manifesto</summary>
 
@@ -52,9 +57,7 @@ _These are licensed Creative Commons by Bre and Kio, but I can't find a link to 
 
 The value of anything like this is in the self-determination of adopting it.
 This doesn't need to be a serious thing, and it's best when it isn't!
-These aren't hard and fast rules, anymore than you choose for them to be.
-
-_My take?_
+These aren't hard and fast rules, anymore than you _choose_ for them to be.
 
 <img alt="Gif of Marge's iconic 'I just think they're neat' line." src="https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/marge-i-just-think-theyre-neat.gif" width=480 height=360 style="display:block;margin-left:auto;margin-right:auto;"/>
 
@@ -66,48 +69,19 @@ Merely having the idea exist in whatever capacity out there in the void, is a fa
 Don't worry how it will turn out. [Just do it](https://www.youtube.com/watch?v=ZXsQAXx_ao0).
 
 <details>
-<summary>Other relevant videos that echo similar vibes</summary>
+<summary>Similar semi-motivationals</summary>
 
-1. [How To Make Coding Addictive -- bigboxSWE](https://www.youtube.com/watch?v=K7hU_z9X4Kk) -- "define your wins"
+1. [How To Make Coding Addictive -- bigboxSWE](https://www.youtube.com/watch?v=K7hU_z9X4Kk)
 1. [How to make hard choices | Ruth Chang -- TED](https://www.youtube.com/watch?v=8GQZuzIdeQQ)
-1. [Don't Contribute to Open Source -- t3dotgg](https://www.youtube.com/watch?v=5nY_cy8zcO4) -- (3:28) "the best project to contribute to is the one that: you use, you have a problem with, and you've looked through the source code and think you might be able to solve it."
+1. [Don't Contribute to Open Source -- t3dotgg](https://www.youtube.com/watch?v=5nY_cy8zcO4)
+
+</details>
 
 </details>
 
 ## Tools 🛠️
 
-<details>
-<summary>Generic</summary>
-
-### IDE
-* vsc
-* vim
-### Cloud
-* AWS (via CFN/CDK/TF)
-* GCP (via TF)
-### CICD
-* GitHub Actions
-* BuildKite
-### Containerisation
-* Docker
-* Docker-Compose
-* K8s
-* Helm
-* K9s
-### Db
-* PostgreSQL
-* BigQuery
-* RedShift
-* dabbled in Cassandra
-### VC
-* Git
-* Mercurial
-### Methodologies
-* Agile
-* Kanban
-* Scrum
-
-</details>
+Usually writing `yaml` in `vsc` out of `wsl`.
 
 <details>
 <summary>Languages</summary>
@@ -147,9 +121,10 @@ Don't worry how it will turn out. [Just do it](https://www.youtube.com/watch?v=Z
 > There's also my [gists](https://gist.github.com/Skenvy). One that I have favourited because I regularly access it is [SSH for multiple GH accounts](https://gist.github.com/Skenvy/8e16d4f044707e63c670f5b487da02c0).
 
 1. [julia-release](https://github.com/Skenvy/julia-release): A github action to release a julia project in a way that feels more ideologically alligned with how I'm familiar with releasing, as opposed to julia's officially recommended release pattern.
-1. [dependabot-linguist](https://github.com/Skenvy/dependabot-linguist) A ruby [package](https://rubygems.org/gems/dependabot-linguist) that can be used to have a guess as to what sort of dependabot configuration is appropriate for a given repository, with the primary use case of automating the configuration across multiple repositories without the need to manually investigate their contents.
+1. [dispatch-suggestor](https://github.com/Skenvy/dispatch-suggestor): A github action for commenting on PRs with a list of suggested `workflow_dispatch` triggered workflows to run based on what workflows it determines will run when the PR is merged.
 1. [Collatz](https://github.com/Skenvy/Collatz): An attempt at a personal Rosetta Stone and collation of _language-fu-isms_, all attempting to achieve sort of the same thing, along with various general repository health examples, and learning github actions. There's probably more collatz repositories on GitHub than you could poke a stick at. This is just one of them. I picked the topic to match the goal of "personal Rosetta Stone" rather than the other way round. The choice of topic came from having a bunch of python scripts written years ago that went down a rabbit-hole, so I made this to make myself stick to KISS.
 1. [Sudoku](https://github.com/Skenvy/Sudoku): A java JFrame implementation of a sudoku solver I wrote circa 2013 and have been sitting on with the desire to one day convert it into an android app. The distinction between this and other solvers is that this tries to catagorise the difficulty of the puzzle by which tactics it needed to solve it, that is to say, it tries to solve it using only specific techniques, in order, without resorting to heuristics / brute force that would be unobtainable for a person.
+1. [dependabot-linguist](https://github.com/Skenvy/dependabot-linguist) `:archived:` A ruby [package](https://rubygems.org/gems/dependabot-linguist) that can be used to have a guess as to what sort of dependabot configuration is appropriate for a given repository, with the primary use case of automating the configuration across multiple repositories without the need to manually investigate their contents.
 
 ## Publications 🖨️
 * Honours Thesis (2017): [ECDSA and ECDH in VHDL for FPGA](http://hdl.handle.net/1959.14/1262355)
