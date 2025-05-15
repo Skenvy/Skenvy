@@ -1,2 +1,10 @@
-# "How to approach reading my devlogs"
+# _Devlog_-log: **Or**, "How to approach reading my devlogs"
+[Devlogs](https://en.wiktionary.org/wiki/devlog) are (or, at least, can be) very useful to watch or read to understand the processes used, along with the historical (and current) context behind any decision made or research / planning done during the development of something. They can vary drastically in tone, polish, and all-round vibe. This hopefully sets the expected tone for reading any of my `devlog.md`'s.
+> [!CAUTION]
+> **TLDR:** _My_ `devlog.md`'s fall sharply into the category of being aggressively unfiltered and informal.
 
+The tone of my devlogs attempts to be an informal, and only _mostly_-organised, collection of snippets of insight into specific technical details of the process of the development on "whatever the thing is." Trying to polish them would be a never ending cycle, and being informal allows me to focus on the content, with an aim to log my "hands-on, exploratory approach" to try and capture what is important, what _feels_ important, in the moment.
+
+Most of the time, I'm learning and experimenting, and I want reading my log to feel like reading my mind **as** I'm experimenting. Both because it feels like the most honest way to reflect on the challenges, but also because it's the most helpful for _myself_ when I come back to a project and have to read my own devlog to remember what I was up to or why I made a particular choice..
+
+Which is probably the best reason I have to offer for why some of them will include "rants." If I was struggling with something, or felt something was more of a challenge or more tedious than necessary, I will probably rant about it to some extent (usually _more_ than just "some"). Sometimes, I've gone back and re-read my rants years later and they still felt justified. Sometimes I've actually learnt something in the meantime, and they don't feel as fair anymore. But they are still an honest reflection on what it felt like trying to learn it "at the time" that I was _trying_ to learn it the first time. I wouldn't want my logs to be rose-coloured glasses that lull people (or myself later on) into the false hope that something might be easier than it actually is, because that just feels dishonest to read.
