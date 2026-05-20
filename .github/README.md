@@ -9,10 +9,12 @@ wiki, then add and commit, and the image file is now generally available at path
 https://raw.githubusercontent.com/wiki/:owner/:repo/a/b/c.xyz e.g.
 https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/*.* -->
 
+<!-- Temporarily commenting out this lil bit
 > [!CAUTION]
 > Likey, nothing better symbolises the chaotic vibe of my approach to coding than this; the time when I was 15, stumbled upon a broken umbrella, and had no qualms asking, or answering: "Could you fit all the pieces of an umbrella in an apple?"
 
 <img alt="An apple with pieces of an umbrella poking through it." src="https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/umbrella_apple.jpg" width=830 height=432 style="display:block;margin-left:auto;margin-right:auto;"/>
+-->
 
 ## `whoami` 🤷‍♂️
 > [!IMPORTANT]
