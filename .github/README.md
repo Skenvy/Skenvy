@@ -24,9 +24,6 @@ https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/*.* -->
 >
 > Degree'd in Computer Engineering, Maths and Geology, I've spent several years working across a range of technical roles: FPGA development, product support, Azure apps, "consulting", "data", and for the last few years as something that is 'SRE-adjacent', "devops"-y cloud [thangs](https://www.youtube.com/watch?v=ijN3Oho2Qf0).
 
-> [!TIP]
-> My dotfiles are _their own how-to_, from [`main`](https://github.com/Skenvy/dotfiles/tree/main). [`home`](https://github.com/Skenvy/dotfiles/tree/home) is _my_ home. Or, [make yourself at home](https://github.com/Skenvy/dotfiles/tree/base), too.
-
 ## Ethos 🚎
 Have you ever wanted to [start a cult](https://www.wikihow.com/Start-a-Cult)? Thankfully in the software dev space, there's already a variety of cults to choose from!
 
@@ -121,6 +118,16 @@ Usually writing `yaml` in `vsc` out of `wsl`.
 > My open source contributions to other repositories can be seen [here](https://github.com/pulls?q=is%3Apr+author%3Askenvy+-user%3Askenvy). You can similarly see yours [here](https://github.com/pulls?q=is%3Apr+author%3A%40me+-user%3A%40me+).
 >
 > There's also my [gists](https://gist.github.com/Skenvy). One that I have favourited because I regularly access it is [SSH for multiple GH accounts](https://gist.github.com/Skenvy/8e16d4f044707e63c670f5b487da02c0).
+
+> [!TIP]
+> My dotfiles are _their own how-to_, from [`main`](https://github.com/Skenvy/dotfiles/tree/main). [`home`](https://github.com/Skenvy/dotfiles/tree/home) is _my_ home. Or, [make yourself at home](https://github.com/Skenvy/dotfiles/tree/base), too.
+>
+> I've put enough work in to the features and portability of my dotfiles, that I would count them as my `0th` project.
+>
+> They are also were I keep my own short guides on managing:
+> [git](https://github.com/Skenvy/dotfiles/blob/main/git/README.md),
+> [ssh](https://github.com/Skenvy/dotfiles/blob/main/.ssh/README.md),
+> and [gpg](https://github.com/Skenvy/dotfiles/blob/main/.gnupg/README.md).
 
 1. [julia-release](https://github.com/Skenvy/julia-release): A github action to release a julia project in a way that feels more ideologically alligned with how I'm familiar with releasing, as opposed to julia's officially recommended release pattern.
 1. [dispatch-suggestor](https://github.com/Skenvy/dispatch-suggestor): A github action for commenting on PRs with a list of suggested `workflow_dispatch` triggered workflows to run based on what workflows it determines will run when the PR is merged.
