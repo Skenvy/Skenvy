@@ -139,7 +139,7 @@ Usually writing `yaml` in `vsc` out of `wsl`.
 * Honours Thesis (2017): [ECDSA and ECDH in VHDL for FPGA](http://hdl.handle.net/1959.14/1262355)
 
 ## Memes 💅
-Idk some memes lol. [Here](./../extra/docs/memes.md).
+Idk some memes lol. [Here](https://github.com/Skenvy/Skenvy/blob/main/extra/docs/memes.md).
 
 ## License 📄
 > [!NOTE]
