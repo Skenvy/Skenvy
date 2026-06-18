@@ -81,9 +81,10 @@ repo's READMEs, with [this html embedding of a `<picture>`][light-dark-img];
 </details>
 
 ## Memes list
-Ordered alphabetically by "name of format" / "name of meme".
-
-Sometimes an explanation of the origin is included, sometimes not..
+> [IMPORTANT!]
+> Ordered alphabetically by "name of format" / "name of meme".
+>
+> Sometimes an explanation of the origin is included, sometimes not..
 
 ### [Always-Has-Been](https://imgflip.com/memegenerator/Always-Has-Been)
 #### [tf-go-types](https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/memes/gen/tf-go-types.png)
