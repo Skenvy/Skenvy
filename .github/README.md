@@ -117,7 +117,7 @@ Usually writing `yaml` in `vsc` out of `wsl`.
 >
 > My open source contributions to other repositories can be seen [here](https://github.com/pulls?q=is%3Apr+author%3Askenvy+-user%3Askenvy). You can similarly see yours [here](https://github.com/pulls?q=is%3Apr+author%3A%40me+-user%3A%40me+).
 >
-> There's also my [gists](https://gist.github.com/Skenvy). One that I have favourited because I regularly access it is [SSH for multiple GH accounts](https://gist.github.com/Skenvy/8e16d4f044707e63c670f5b487da02c0).
+> There's also my [gists](https://gist.github.com/Skenvy).
 
 > [!TIP]
 > My dotfiles are _their own how-to_, from [`main`](https://github.com/Skenvy/dotfiles/tree/main). [`home`](https://github.com/Skenvy/dotfiles/tree/home) is _my_ home. Or, [make yourself at home](https://github.com/Skenvy/dotfiles/tree/base), too.
