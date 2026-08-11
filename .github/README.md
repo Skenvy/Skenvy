@@ -92,30 +92,30 @@ Don't worry how it will turn out. Just do it.
 Usually writing [`yaml`](https://yaml.org/) in [`vsc`](https://code.visualstudio.com/) out of [`wsl`](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 <details>
-<summary>Languages</summary>
+<summary>Languages / Ecosystems</summary>
 
-### Primary
+### Primary (6+ years)
 * Python
 * Bash
 * Java
-* Yaml (lol)
-* Make (lol).
-### Secondary
-* C#
-* Go
+* Yaml
+* Make
+### Secondary (1-2 years +)
 * Ruby
+* TypeScript
+* C#
 * PowerShell
+* VHDL
+### Tertiary
+* Rust
+* Go
 * Julia
 * R
-* VHDL
 ### Currently learning
-* Rust
 * Kotlin+Android
 * Erlang/Gleam
 ### _Always learning_
-* JS
-* TS
-* Node
+The `JS, TS, Node` ecosystem evolves so fast it feels like you're "always" learning it.
 
 </details>
 
