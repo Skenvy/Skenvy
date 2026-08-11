@@ -18,7 +18,13 @@ https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/*.* -->
 
 ## `whoami` 🤷‍♂️
 > [!IMPORTANT]
-> Howdy, I'm [Nathan](https://www.linkedin.com/in/nathan-levett/), a.k.a. [Skenvy](https://www.reddit.com/user/Skenvy/submitted/), "30's"-year-old Australian 'devops' human.
+> [LinkedIn](https://www.linkedin.com/in/nathan-levett/)
+>
+> [Reddit](https://www.reddit.com/user/Skenvy/submitted/)
+>
+> Howdy. I'm Nathan, a.k.a. Skenvy (which started as my mid-2000's online gaming alias, and just stuck).
+>
+> _This_ is my "personal" GitHub account that I use to delineate from my ["work" GitHub account](https://github.com/cloutkhan).
 >
 > I'm building inconsequential projects for fun and learning. The more inconsequential the better.
 >
