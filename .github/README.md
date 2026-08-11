@@ -33,7 +33,9 @@ FPGA development, product support, Azure apps, "consulting", and data engineerin
 Since 2020, I've worked as a hybrid at the intersection of "DevOps" / "SRE" / "Cloud" / "Platforms" / "DevEx".
 
 ## Ethos 🚎
-Have you ever wanted to [start a cult](https://www.wikihow.com/Start-a-Cult)? Thankfully in the software dev space, there's already a variety of cults to choose from!
+Have you ever wanted to [start a cult](https://www.wikihow.com/Start-a-Cult)?
+
+In the software development space, there's already a variety of cults to choose from!
 
 <details>
 <summary>The Cult of Done</summary>
@@ -58,37 +60,36 @@ The "Cult of Done" is a nice set of quip-based motivationals, if those would hel
 1. If you have an idea and publish it on the internet, that counts as a ghost of done.
 1. Done is the engine of more.
 
-_These are licensed Creative Commons by Bre and Kio, but I can't find a link to the original license_.
+_These are supposedly licensed Creative Commons by Bre and Kio, but I can't find a link to the original license_.
+_If you're reading this and you know the source of the original license, please submit it in a PR._
+<!-- If you actually DO follow up on this, and PR the Cult of Done license here, remove the above two lines and this html comment and replace them with the following line edited to include the proper link
+_"The Cult of Done Manifesto" is licensed Creative Commons by Bre and Kio, see the [original license](ADD_LICENCE_LINK_HERE)_.
+-->
 
 </details>
+
+<!--
+This block is commented out because it makes it looks too long. Consider moving this whole ethos section to a separate linked-to md
 
 The value of anything like this is in the self-determination of adopting it.
 This doesn't need to be a serious thing, and it's best when it isn't!
 These aren't hard and fast rules, anymore than you _choose_ for them to be.
 
-<img alt="Gif of Marge's iconic 'I just think they're neat' line." src="https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/marge-i-just-think-theyre-neat.gif" width=480 height=360 style="display:block;margin-left:auto;margin-right:auto;"/>
+> <img alt="Gif of Marge's iconic 'I just think they're neat' line." src="https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/marge-i-just-think-theyre-neat.gif" width=480 height=360 style="display:block;margin-left:auto;margin-right:auto;"/>
 
 #### _Ghost of done_
 My favourite quip from the manifesto is the "Ghost of done";
 the value of an idea is not necessarily whether or not _you_ action it, or if you do, how you accomplish it.
 Merely having the idea exist in whatever capacity out there in the void, is a facsimile of done.
 
-Don't worry how it will turn out. [Just do it](https://www.youtube.com/watch?v=ZXsQAXx_ao0).
-
-<details>
-<summary>Similar semi-motivationals</summary>
-
-1. [How To Make Coding Addictive -- bigboxSWE](https://www.youtube.com/watch?v=K7hU_z9X4Kk)
-1. [How to make hard choices | Ruth Chang -- TED](https://www.youtube.com/watch?v=8GQZuzIdeQQ)
-1. [Don't Contribute to Open Source -- t3dotgg](https://www.youtube.com/watch?v=5nY_cy8zcO4)
-
-</details>
+Don't worry how it will turn out. Just do it.
+-->
 
 </details>
 
 ## Tools 🛠️
 
-Usually writing `yaml` in `vsc` out of `wsl`.
+Usually writing [`yaml`](https://yaml.org/) in [`vsc`](https://code.visualstudio.com/) out of [`wsl`](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 <details>
 <summary>Languages</summary>
