@@ -15,20 +15,22 @@ https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/*.* -->
 
 <img alt="An apple with pieces of an umbrella poking through it." src="https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/umbrella_apple.jpg" width=830 height=432 style="display:block;margin-left:auto;margin-right:auto;"/>
 -->
+_I'm building inconsequential projects for fun and learning. The more inconsequential the better._
 
 ## `whoami` 🤷‍♂️
 > [!IMPORTANT]
 > [LinkedIn](https://www.linkedin.com/in/nathan-levett/)
 >
 > [Reddit](https://www.reddit.com/user/Skenvy/submitted/)
->
-> Howdy. I'm Nathan, a.k.a. Skenvy (which started as my mid-2000's online gaming alias, and just stuck).
->
-> _This_ is my "personal" GitHub account that I use to delineate from my ["work" GitHub account](https://github.com/cloutkhan).
->
-> I'm building inconsequential projects for fun and learning. The more inconsequential the better.
->
-> Degree'd in Computer Engineering, Maths and Geology, I've spent several years working across a range of technical roles: FPGA development, product support, Azure apps, "consulting", "data", and for the last few years as something that is 'SRE-adjacent', "devops"-y cloud [thangs](https://www.youtube.com/watch?v=ijN3Oho2Qf0).
+
+Howdy. I'm Nathan, a.k.a. Skenvy (which started as my mid-2000's online gaming alias, and just stuck).
+
+_This_ is my ["personal" GitHub account](https://github.com/skenvy) that I use to delineate from my ["work" GitHub account](https://github.com/cloutkhan).
+
+Degreed in Computer Engineering, Maths and Geology;
+I've spent several years working across a range of technical roles:
+FPGA development, product support, Azure apps, "consulting", and data engineering.
+Since 2020, I've worked as a hybrid at the intersection of "DevOps" / "SRE" / "Cloud" / "Platforms" / "DevEx".
 
 ## Ethos 🚎
 Have you ever wanted to [start a cult](https://www.wikihow.com/Start-a-Cult)? Thankfully in the software dev space, there's already a variety of cults to choose from!
