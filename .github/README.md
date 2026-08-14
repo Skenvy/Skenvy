@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/*.* -->
 
 <img alt="An apple with pieces of an umbrella poking through it." src="https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/umbrella_apple.jpg" width=830 height=432 style="display:block;margin-left:auto;margin-right:auto;"/>
 -->
-_I'm building inconsequential projects for fun and learning. The more inconsequential the better._
+_I'm building inconsequential projects for fun and learning. The more inconsequential the better._ -- `lived intentional irreverence`
 
 ## `whoami` 🤷‍♂️
 > [!IMPORTANT]
@@ -148,7 +148,7 @@ The `JS, TS, Node` ecosystem evolves so fast it feels like you're "always" learn
 * Honours Thesis (2017): [ECDSA and ECDH in VHDL for FPGA](http://hdl.handle.net/1959.14/1262355)
 
 ## Memes 💅
-Idk some memes lol. [Here](https://github.com/Skenvy/Skenvy/blob/main/extra/docs/memes.md).
+I communicate heavily through memes. [See some here](https://github.com/Skenvy/Skenvy/blob/main/extra/docs/memes.md).
 
 ## License 📄
 > [!NOTE]
