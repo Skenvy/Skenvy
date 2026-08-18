@@ -1,4 +1,4 @@
-# _G'day_ 🤠
+# _G'day_ 🤠 <!-- https://github.com/Skenvy/Skenvy/blob/main/.github/README.md -->
 <!-- Usually I header my projects with a link to the corresponding repo but this
 is a special case; being the "Profile Repo" https://github.com/Skenvy/Skenvy, we
 also don't need the typical "top header is repo name hyperlinked to itself"! -->
@@ -13,9 +13,24 @@ _I'm building inconsequential projects for fun and learning. The more inconseque
 
 ---
 
+<div align="center">
+  <strong>Skip to:</strong> &nbsp;
+  <a href="#whoami"><code>whoami</code> 🤷‍♂️</a> &nbsp;
+  <a href="#ethos">Ethos 🚎</a> &nbsp;
+  <a href="#tools">Tools 🛠️</a> &nbsp;
+  <a href="#toolbox">Tool<i>box</i> 🧰</a> &nbsp;
+  <a href="#projects">Projects 📂</a> &nbsp;
+  <a href="#publications">Publications 🖨️</a> &nbsp;
+  <a href="#memes">Memes 💅</a> &nbsp;
+  <a href="#license">License 📄</a>
+</div>
+<br>
+<div align="center">
 <details>
 <summary><i>What on earth is up with how you've titled the sections of this page???</i></summary>
 
+<div align="left"><br>
+  
 From the [Five Ws](https://en.wikipedia.org/wiki/Five_Ws), or, taken loosely from the [Seven Circumstances](https://www.journals.uchicago.edu/doi/10.1086/656196) --
 
 > Therefore it is not a pointless endeavor to divide these circumstances by kind and number; (1) the Who, (2) the What, (3) around what place (Where) or (4) in which time something happens (When), and sometimes (5) with what, such as an instrument (With), (6) for the sake of what (Why), such as saving a life, and (7) the (How), such as gently or violently…And it seems that the most important circumstances are those just listed, including the Why.
@@ -28,15 +43,17 @@ From the [Five Ws](https://en.wikipedia.org/wiki/Five_Ws), or, taken loosely fro
 | When | _When_ are you? | `whoami` 🤷‍♂️ |
 | With | With what instrument? | Tools 🛠️ <br> Tool<i>box</i> 🧰 |
 | Why | For what purpose? <br> Through what impetus? | Ethos 🚎 <br> Personal philosophy ⍟ <br> Cults ⛧ |
-| How | In what manner? <br> Through what animus? | Memes 💅 |
+| How | In what manner? <br> Through what animus? | Memes 💅 <br> License 📄 |
 
-In makes the most sense for me to answer these in order of who, why, with, what, how.
+It makes the most sense for me to answer these in order of [who](#whoami), [why](#ethos), [with](#toolbox), [what](#projects), and [how](#memes).
 
+</div>
 </details>
+</div>
 
 ---
 
-## `whoami` 🤷‍♂️
+## `whoami` 🤷‍♂️ <span id="whoami"></span>
 > [!IMPORTANT]
 > [LinkedIn](https://www.linkedin.com/in/nathan-levett/)
 >
@@ -51,8 +68,7 @@ I've spent several years working across a range of technical roles:
 FPGA development, product support, Azure apps, "consulting", and data engineering.
 Since 2020, I've worked as a hybrid at the intersection of "DevOps" / "SRE" / "Cloud" / "Platforms" / "DevEx".
 
-## Ethos 🚎
-Aka `whyami`.
+## Ethos 🚎 <span id="ethos"></span>
 ### Personal philosophy ⍟
 > [!CAUTION]
 > Likey, nothing better symbolises the curious, chaotic, cheeky, vibe of my approach to _all things_ (through choosing "`lived intentional irreverence`") than this; the time when I was 15, stumbled upon a broken umbrella, and had no qualms asking, or answering: "Could you fit all the pieces of an umbrella in an apple?"
@@ -121,7 +137,7 @@ Don't worry how it will turn out. Just do it.
 
 </details>
 
-## Tools 🛠️
+## Tools 🛠️ <span id="tools"></span>
 Usually writing [`yaml`](https://yaml.org/) in [`vsc`](https://code.visualstudio.com/) out of [`wsl`](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 <details>
@@ -152,7 +168,7 @@ The `JS, TS, Node` ecosystem evolves so fast it feels like you're "always" learn
 
 </details>
 
-### Tool<i>box</i> 🧰
+### Tool<i>box</i> 🧰 <span id="toolbox"></span>
 At least _as_ important, if not more so, than the tools someone uses, is how they maintain their tool<i>box</i>.
 
 By which, of course, I mean, [dotfiles](https://dotfiles.github.io/)! Take care of the tools you use, so they can take care of you!
@@ -166,7 +182,7 @@ By which, of course, I mean, [dotfiles](https://dotfiles.github.io/)! Take care 
 > [ssh](https://github.com/Skenvy/dotfiles/blob/main/.ssh/README.md),
 > and [gpg](https://github.com/Skenvy/dotfiles/blob/main/.gnupg/README.md).
 
-## Projects 📂
+## Projects 📂 <span id="projects"></span>
 > [!NOTE]
 > I maintain several niche packages that besides their respective typical hosts, also live in [GitHub Packages](https://github.com/Skenvy?tab=packages).
 >
@@ -180,12 +196,12 @@ By which, of course, I mean, [dotfiles](https://dotfiles.github.io/)! Take care 
 1. [Sudoku](https://github.com/Skenvy/Sudoku): A java JFrame implementation of a sudoku solver I wrote circa 2013 and have been sitting on with the desire to one day convert it into an android app. The distinction between this and other solvers is that this tries to catagorise the difficulty of the puzzle by which tactics it needed to solve it, that is to say, it tries to solve it using only specific techniques, in order, without resorting to heuristics / brute force that would be unobtainable for a person.
 1. [dependabot-linguist](https://github.com/Skenvy/dependabot-linguist) `:archived:` A ruby [package](https://rubygems.org/gems/dependabot-linguist) that can be used to have a guess as to what sort of dependabot configuration is appropriate for a given repository, with the primary use case of automating the configuration across multiple repositories without the need to manually investigate their contents.
 
-## Publications 🖨️
+## Publications 🖨️ <span id="publications"></span>
 * Honours Thesis (2017): [ECDSA and ECDH in VHDL for FPGA](http://hdl.handle.net/1959.14/1262355)
 
-## Memes 💅
+## Memes 💅 <span id="memes"></span>
 I communicate heavily through memes. [See some here](https://github.com/Skenvy/Skenvy/blob/main/extra/docs/memes.md).
 
-## License 📄
+## License 📄 <span id="license"></span>
 > [!NOTE]
 > <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Skenvy/Skenvy">Skenvy</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Skenvy">Nathan Levett</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC-BY-SA-4.0 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
