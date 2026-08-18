@@ -129,15 +129,10 @@ The `JS, TS, Node` ecosystem evolves so fast it feels like you're "always" learn
 
 </details>
 
-## Projects 📂
+## Tool<i>box</i> 🧰
+At least _as_ important, if not more so, than the tools someone uses, is how they maintain their tool<i>box</i>.
 
-> [!NOTE]
-> I maintain several niche packages that besides their respective typical hosts, also live in [GitHub Packages](https://github.com/Skenvy?tab=packages).
->
-> My open source contributions to other repositories can be seen [here](https://github.com/pulls?q=is%3Apr+author%3Askenvy+-user%3Askenvy). You can similarly see yours [here](https://github.com/pulls?q=is%3Apr+author%3A%40me+-user%3A%40me+).
->
-> There's also my [gists](https://gist.github.com/Skenvy).
-
+By which, of course, I mean, [dotfiles](https://dotfiles.github.io/)! Take care of the tools you use, so they can take care of you!
 > [!TIP]
 > My dotfiles are _their own how-to_, from [`main`](https://github.com/Skenvy/dotfiles/tree/main). [`home`](https://github.com/Skenvy/dotfiles/tree/home) is _my_ home. Or, [make yourself at home](https://github.com/Skenvy/dotfiles/tree/base), too.
 >
@@ -147,6 +142,14 @@ The `JS, TS, Node` ecosystem evolves so fast it feels like you're "always" learn
 > [git](https://github.com/Skenvy/dotfiles/blob/main/git/README.md),
 > [ssh](https://github.com/Skenvy/dotfiles/blob/main/.ssh/README.md),
 > and [gpg](https://github.com/Skenvy/dotfiles/blob/main/.gnupg/README.md).
+
+## Projects 📂
+> [!NOTE]
+> I maintain several niche packages that besides their respective typical hosts, also live in [GitHub Packages](https://github.com/Skenvy?tab=packages).
+>
+> My open source contributions to other repositories can be seen [here](https://github.com/pulls?q=is%3Apr+author%3Askenvy+-user%3Askenvy). You can similarly see yours [here](https://github.com/pulls?q=is%3Apr+author%3A%40me+-user%3A%40me+).
+>
+> There's also my [gists](https://gist.github.com/Skenvy).
 
 1. [julia-release](https://github.com/Skenvy/julia-release): A github action to release a julia project in a way that feels more ideologically alligned with how I'm familiar with releasing, as opposed to julia's officially recommended release pattern.
 1. [dispatch-suggestor](https://github.com/Skenvy/dispatch-suggestor): A github action for commenting on PRs with a list of suggested `workflow_dispatch` triggered workflows to run based on what workflows it determines will run when the PR is merged.
