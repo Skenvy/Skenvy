@@ -13,17 +13,26 @@ _I'm building inconsequential projects for fun and learning. The more inconseque
 
 ---
 
-> [!CAUTION]
-> Likey, nothing better symbolises the curious, chaotic, cheeky, vibe of my approach to _all things_ (through choosing "`lived intentional irreverence`") than this; the time when I was 15, stumbled upon a broken umbrella, and had no qualms asking, or answering: "Could you fit all the pieces of an umbrella in an apple?"
->
-> <details>
-> <summary><i>See the answer</i></summary>
->
-> <img alt="An apple with pieces of an umbrella poking through it." src="https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/umbrella_apple.jpg" width=830 height=432 style="display:block;margin-left:auto;margin-right:auto;"/>
-> <sub><p align="center"><i>
-> Yes, you CAN fit all the pieces of an umbrella in an apple!
-> </i></p></sub>
-> </details>
+<details>
+<summary><i>What on earth is up with how you've titled the sections of this page???</i></summary>
+
+From the [Five Ws](https://en.wikipedia.org/wiki/Five_Ws), or, taken loosely from the [Seven Circumstances](https://www.journals.uchicago.edu/doi/10.1086/656196) --
+
+> Therefore it is not a pointless endeavor to divide these circumstances by kind and number; (1) the Who, (2) the What, (3) around what place (Where) or (4) in which time something happens (When), and sometimes (5) with what, such as an instrument (With), (6) for the sake of what (Why), such as saving a life, and (7) the (How), such as gently or violently…And it seems that the most important circumstances are those just listed, including the Why.
+
+| Circumstance | in other words... | is answered via |
+| :--- | :---: | ---: |
+| Who | Who you are? | `whoami` 🤷‍♂️ |
+| What | What are you doing? | Projects 📂 <br> Publications 🖨️ |
+| Where | _Where_ are you? | `whoami` 🤷‍♂️ |
+| When | _When_ are you? | `whoami` 🤷‍♂️ |
+| With | With what instrument? | Tools 🛠️ <br> Tool<i>box</i> 🧰 |
+| Why | For what purpose? <br> Through what impetus? | Ethos 🚎 <br> Personal philosophy ⍟ <br> Cults ⛧ |
+| How | In what manner? <br> Through what animus? | Memes 💅 |
+
+In makes the most sense for me to answer these in order of who, why, with, what, how.
+
+</details>
 
 ---
 
@@ -43,6 +52,21 @@ FPGA development, product support, Azure apps, "consulting", and data engineerin
 Since 2020, I've worked as a hybrid at the intersection of "DevOps" / "SRE" / "Cloud" / "Platforms" / "DevEx".
 
 ## Ethos 🚎
+Aka `whyami`.
+### Personal philosophy ⍟
+> [!CAUTION]
+> Likey, nothing better symbolises the curious, chaotic, cheeky, vibe of my approach to _all things_ (through choosing "`lived intentional irreverence`") than this; the time when I was 15, stumbled upon a broken umbrella, and had no qualms asking, or answering: "Could you fit all the pieces of an umbrella in an apple?"
+>
+> <details>
+> <summary><i>See the answer</i></summary>
+>
+> <img alt="An apple with pieces of an umbrella poking through it." src="https://raw.githubusercontent.com/wiki/Skenvy/Skenvy/assets/imgs/umbrella_apple.jpg" width=830 height=432 style="display:block;margin-left:auto;margin-right:auto;"/>
+> <sub><p align="center"><i>
+> Yes, you CAN fit all the pieces of an umbrella in an apple!
+> </i></p></sub>
+> </details>
+
+### Cults ⛧
 Have you ever wanted to [start a cult](https://www.wikihow.com/Start-a-Cult)?
 
 In the software development space, there's already a variety of cults to choose from!
@@ -98,7 +122,6 @@ Don't worry how it will turn out. Just do it.
 </details>
 
 ## Tools 🛠️
-
 Usually writing [`yaml`](https://yaml.org/) in [`vsc`](https://code.visualstudio.com/) out of [`wsl`](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 <details>
@@ -129,7 +152,7 @@ The `JS, TS, Node` ecosystem evolves so fast it feels like you're "always" learn
 
 </details>
 
-## Tool<i>box</i> 🧰
+### Tool<i>box</i> 🧰
 At least _as_ important, if not more so, than the tools someone uses, is how they maintain their tool<i>box</i>.
 
 By which, of course, I mean, [dotfiles](https://dotfiles.github.io/)! Take care of the tools you use, so they can take care of you!
@@ -138,7 +161,7 @@ By which, of course, I mean, [dotfiles](https://dotfiles.github.io/)! Take care 
 >
 > I've put enough work in to the features and portability of my dotfiles, that I would count them as my `0th` project.
 >
-> They are also were I keep my own short guides on managing:
+> They are also where I keep my own short guides on managing:
 > [git](https://github.com/Skenvy/dotfiles/blob/main/git/README.md),
 > [ssh](https://github.com/Skenvy/dotfiles/blob/main/.ssh/README.md),
 > and [gpg](https://github.com/Skenvy/dotfiles/blob/main/.gnupg/README.md).
